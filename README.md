@@ -1,3 +1,3 @@
 # odin-landing-page
 
-html project depicting "The Knights Of Round Table"
+html project for a landing-page
